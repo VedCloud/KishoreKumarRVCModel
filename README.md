@@ -1,10 +1,12 @@
 # 🎙️ Kishorev — Reference-Grade RVC Model of Kishore Kumar
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/kishorev)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/kishorev)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/kishorev?style=social)
-![License](https://img.shields.io/github/license/yourusername/kishorev)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%F0%9F%96%A4-red)
+![Model Status](https://img.shields.io/badge/Training-Epoch%20800%20Complete-00bfff)
+![Dataset Quality](https://img.shields.io/badge/Dataset-Curated%20%26%20Audited-brightgreen)
+![Emotional Fidelity](https://img.shields.io/badge/Emotional%20Range-Full%20Coverage-ff69b4)
+![Phoneme Diversity](https://img.shields.io/badge/Phoneme%20Coverage-High%20Precision-yellow)
+![Tech Stack](https://img.shields.io/badge/Tools-UVR%20HQ3%2C%20VOC%20FT%2C%20RX%2011-blueviolet)
+![License](https://img.shields.io/badge/License-Educational%20Use-lightgrey)
+![Made by Ved](https://img.shields.io/badge/Made%20by-Ved%20Prajapati-critical)
 
 > A legacy-grade RVC model capturing the emotional, tonal, and phonetic essence of Kishore Kumar — meticulously curated by [Ved Prajapati](https://github.com/yourusername).
 
@@ -76,3 +78,4 @@ For collaboration, feedback, or dataset inquiries:
 ---
 
 ![Kishorev Banner](https://yourdomain.com/kishorev-banner.png)
+
