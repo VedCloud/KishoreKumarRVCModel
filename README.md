@@ -1,4 +1,4 @@
-# 🎙️ Kishorev — Reference-Grade RVC Model of Kishore Kumar
+# 🎙️ Kishore Kumar — Reference-Grade RVC Model of Kishore Kumar
 
 ![Model Status](https://img.shields.io/badge/Training-Epoch%20800%20Complete-00bfff)
 ![Dataset Quality](https://img.shields.io/badge/Dataset-Curated%20%26%20Audited-brightgreen)
@@ -14,7 +14,7 @@
 
 ## 🧠 Overview
 
-**Kishorev** is a high-fidelity voice model trained on 800 epochs using a handcrafted dataset of 410+ clips from Kishore Kumar’s discography. It preserves:
+**Kishore Kumar** is a high-fidelity voice model trained on 800 epochs using a handcrafted dataset of 410+ clips from Kishore Kumar’s discography. It preserves:
 - 🎵 Emotional depth across romantic, melancholic, playful, and dramatic modes  
 - 🔊 Tonal purity with minimal bleed and optimized phoneme transitions  
 - 🧾 Metadata integrity for reproducibility and archival compliance  
@@ -77,7 +77,8 @@ For collaboration, feedback, or dataset inquiries:
 
 ---
 
-![Kishorev Banner](https://yourdomain.com/kishorev-banner.png)
+![Kishore Kumar Banner](https://yourdomain.com/Kishore Kumar-banner.png)
+
 
 
 
