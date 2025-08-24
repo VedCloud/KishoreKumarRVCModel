@@ -69,15 +69,6 @@ This repository is for educational and archival purposes. All rights to original
 
 ---
 
-## 📬 Contact
-
-For collaboration, feedback, or dataset inquiries:  
-📧 `ved.prajapati.archives@protonmail.com`  
-🌐 [GitHub Profile](https://github.com/yourusername)
-
----
-
-![Kishore Kumar Banner](https://yourdomain.com/Kishore Kumar-banner.png)
 
 
 
